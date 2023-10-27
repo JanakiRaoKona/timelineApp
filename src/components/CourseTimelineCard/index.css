@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.title-duration-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.course-duration {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.list-tags-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.list-tags {
+  background-color: #1e293b;
+
+  margin: 3px;
+  color: #ffffff;
+  width: 50px;
+  height: 30px;
+  text-align: center;
+  font-size: 10px;
+}
+.list-element {
+  width: 200px;
+  height: 200px;
+}
